@@ -1,3 +1,3 @@
-[link](https://piyushbaviskar.github.io/jalgaon-hub/)
+[LINK](https://piyushbaviskar.github.io/jalgaon-hub/ "Click Here...")
 
-[![Contributors][contributors-shield]] [https://github.com/piyushbaviskar]
+[[Contributors][contributors-shield]] [https://github.com/piyushbaviskar]
